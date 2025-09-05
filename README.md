@@ -21,7 +21,7 @@ Este repositório documenta minha jornada de aprendizado frontend através do ro
 
 | Status | Projeto | Tecnologias | Descrição |
 | :---: | --- | --- | --- |
-| 🔄 | **[Portfolio Pessoal - CV](https://userdajheni.github.io/frontend-roadmapsh/Single-Page-CV/index.html){:target="_blank"}** | HTML | Curriculo simples |
+| 🔄 | **[Portfolio Pessoal - CV](https://userdajheni.github.io/frontend-roadmapsh/Single-Page-CV/index.html)** | HTML | Curriculo simples |
 | ⏳ | **Cartão Interativo** | HTML, CSS, JS | Cartão com interações JavaScript |
 | ⏳ | **Calculadora** | HTML, CSS, JS | Calculadora funcional |
 | ⏳ | **Jogo da Velha** | HTML, CSS, JS | Clássico jogo implementado |
