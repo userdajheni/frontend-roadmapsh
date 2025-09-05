@@ -1,0 +1,136 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #000; /* Simula a borda visível no design */
+}
+
+nav {
+    width: 100%; /* ocupa todo o espaço e isso fez com que a logo ficasse na esquerda e os links da direita */
+    justify-content: space-around;
+    align-items: center; /*centraliza tudo */
+    display: flex; /* a logo e os links ficam lado a lado */
+}
+
+nav a img {
+    max-width: 70%; /* tamanho máximo da logo */
+}
+
+nav ul {
+    /* gap: 20px; */
+    list-style-type: none; /* tira as bolinhas */
+    display: flex; /* os links ficam lado a lado */
+}
+
+nav ul li a {
+    color: #333;
+    font-size: 20px;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    text-decoration: none; /* tira o sublinhado */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav ul li a:hover {
+    background-color: #f0f0f0;
+}
+
+nav ul li:not(:last-child)::after {
+    content: " /"; /* Adiciona a barra depois de cada item, exceto o último */
+    margin: 0 10px; /* Ajusta o espaçamento entre a barra e o texto */
+}
+
+
+/* Título e subtítulo */
+header > div {
+    text-align: center;
+    margin: 100px 0;
+}
+
+header h1 {
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 10px;
+}
+
+header span {
+    font-size: 18px;
+    color: #666;
+}
+
+/* conteudo main */
+.container {
+    display: grid;
+
+    grid-template-areas:
+        "projects workexperience education"
+        "projects opensourcework education"
+    ;
+
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.projects { grid-area: projects;}
+.education { grid-area: education;}
+.workexperience { grid-area: workexperience;}
+.opensourcework { grid-area: opensourcework;}
+
+.projects,
+.workexperience,
+.opensourcework,
+.education {
+    padding: 30px;
+    text-align: left; /* Alinhamento do texto */
+    border: 1px solid black; /* Para imitar o contorno da imagem */
+}
+
+h2 {
+    margin-bottom: 20px; /* Consistência no espaçamento */
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+p, ul { padding: 10px;}
+
+/* reviews */
+section {
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+}
+
+.container-review {
+    gap: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.box-review {
+    width: 300px;   
+    padding: 25px;
+    border-radius: 40px;
+    border: solid 1px black;
+}
+
+.author {
+    color: #9e9d9d;
+}
+
+/* footer */
+footer {
+    padding: 30px 0;
+    text-align: center;
+}
