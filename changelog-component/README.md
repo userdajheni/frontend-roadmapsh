@@ -60,17 +60,7 @@ Não é necessário instalar nenhuma dependência.
 
 ---
 
-## 📷 Preview
 
-Se quiser adicionar uma imagem do projeto:
-
-```
-## 📷 Preview
-
-![Preview do Projeto](./preview.png)
-```
-
----
 
 ## 📚 Aprendizados
 
