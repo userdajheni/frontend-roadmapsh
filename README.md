@@ -17,37 +17,9 @@ Este repositório documenta minha jornada de aprendizado frontend através do ro
 - 🎯 Metas de aprendizado
 - 📊 Acompanhamento de progresso
 
-## 🗂️ Projetos
+## 🗂️ Links dos projetos
+Faça você também :)
 
-| Status | Projeto | Tecnologias | Descrição |
-| :---: | --- | --- | --- |
-| ✅  | **[Portfolio Pessoal - CV](https://userdajheni.github.io/frontend-roadmapsh/Single-Page-CV/)** | HTML | Curriculo simples |
-| ✅  | **[Website básico - somente com HTML](https://userdajheni.github.io/frontend-roadmapsh/Basic-HTML-Website/)** | HTML | Website Básico |
-| ⏳ | **Calculadora** | HTML, CSS, JS | Calculadora funcional |
-| ⏳ | **Jogo da Velha** | HTML, CSS, JS | Clássico jogo implementado |
-| ⏳ | **Portfolio Avançado** | HTML, CSS, JS | Portfolio com funcionalidades JS |
-
-## 📊 Progresso
-
-**Tópicos Completados:**
-- [x] Fundamentos de Internet
-- [x] HTML Básico e Semântico
-- [ ] CSS Intermediário (Grid, Flexbox)
-- [ ] JavaScript ES6+
-
-## 🛠️ Tecnologias
-
-- **Linguagens:** HTML5, CSS3, JavaScript
-- **Ferramentas:** Git, VS Code, Figma
-- **Recursos:** MDN Web Docs, FreeCodeCamp
-
-## 🌟 Destaques Recentes
-
-- [Projeto Portfolio](projects/portfolio) - Meu primeiro projeto completo
-- [Anotações HTML](notes/html-notes.md) - Documentação de estudos
-
----
-
-⭐ **Dê uma estrela** se este repositório te inspirar em sua jornada de aprendizado!
-
-*Siga meu progresso enquanto transformo conceitos em código, um projeto de cada vez.*
+1. ![Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+2. ![Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+3. ![Changelog Component](https://roadmap.sh/projects/changelog-component)
