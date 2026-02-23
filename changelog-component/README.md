@@ -4,7 +4,7 @@ Este projeto consiste na criação de um componente de **timeline (changelog)** 
 
 O objetivo do exercício foi praticar estruturação semântica, posicionamento com CSS e organização de layout com Flexbox.
 
-Link principal do projeto: ![project URL](https://roadmap.sh/projects/changelog-component)
+Projeto proposto por: [Roadmap.sh - Changelog Component](https://roadmap.sh/projects/changelog-component)
 
 ---
 
