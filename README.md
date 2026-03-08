@@ -20,6 +20,6 @@ Este repositório documenta minha jornada de aprendizado frontend através do ro
 ## 🗂️ Links dos projetos
 Faça você também :)
 
-1. ![Single-Page CV](https://roadmap.sh/projects/single-page-cv)
-2. ![Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-3. ![Changelog Component](https://roadmap.sh/projects/changelog-component)
+1. ![Single-Page CV](https://userdajheni.github.io/frontend-roadmapsh/Single-Page-CV/)
+2. ![Basic HTML Website](https://userdajheni.github.io/frontend-roadmapsh/Basic-HTML-Website/)
+3. ![Changelog Component](https://userdajheni.github.io/frontend-roadmapsh/changelog-component/)
